@@ -1,0 +1,4 @@
+[default]
+entity: raminzahedi
+project: fsdl_textrecognizer_project
+base_url: https://api.wandb.ai
