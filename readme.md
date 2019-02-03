@@ -2,6 +2,7 @@
 
 Welcome!
 
+
 ## W&B Jupyter Hub instructions
 
 Go to https://app.wandb.ai/profile and enter the code that we will share with you at the session into Access Code field.
